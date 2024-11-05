@@ -2,7 +2,7 @@
 
 This project provides a graphical interface to upload an image and measure objects within it using OpenCV. After selecting an image, the application detects contours, warps the image, and calculates the dimensions of objects in centimeters. The application is built using Python with OpenCV for image processing, Tkinter for the GUI, and Pillow for image handling.
 
-![1](https://github.com/user-attachments/assets/54a49783-b986-4310-b7fb-cb400da86a34)
+![Result](https://github.com/user-attachments/assets/f24f921a-83aa-4b58-ab98-a679fb044bc7)
 
 
 ## Features
